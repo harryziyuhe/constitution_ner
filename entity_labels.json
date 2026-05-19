@@ -1,0 +1,38 @@
+[
+  {
+    "name": "PEOPLE",
+    "color": "#FFF705"
+  },
+  {
+    "name": "EXECUTIVE",
+    "color": "#460AFA"
+  },
+  {
+    "name": "LEGISLATIVE",
+    "color": "#FA0A0A"
+  },
+  {
+    "name": "JUDICIARY",
+    "color": "#3AFA0A"
+  },
+  {
+    "name": "MILITARY",
+    "color": "#FA9A0A"
+  },
+  {
+    "name": "BUREAUCRACY",
+    "color": "#AE0AFA"
+  },
+  {
+    "name": "SUPER",
+    "color": "#FA0A9A"
+  },
+  {
+    "name": "SUB",
+    "color": "#C47464"
+  },
+  {
+    "name": "OTHER",
+    "color": "#FAFAFA"
+  }
+]
